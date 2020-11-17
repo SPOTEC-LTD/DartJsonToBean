@@ -22,7 +22,8 @@
 			{
 				"command": "decemberDartJsonBean.helloWorld",
 				"key": "ctrl+l+p",
-				"mac": "command+l+p"
+				"mac": "command+l+p",
+				"when": "editorTextFocus"
 			}
 		],
 		"commands": [
