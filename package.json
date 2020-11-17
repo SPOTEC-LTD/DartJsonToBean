@@ -4,6 +4,9 @@
 	"description": "dart json to bean",
 	"version": "0.0.1",
 	"publisher":"december",
+	"repository": {
+		"url": "https://github.com/decemberLi/DartJsonToBean.git"
+	},
 	"engines": {
 		"vscode": "^1.51.0"
 	},
